@@ -1,0 +1,18 @@
+কোথায় কী বদলাবেন (GitHub)
+
+সাইটের ফাইল: https://github.com/jesicabeautyparlourandtraining-glitch/jesicabeautyparlourandtraining-glitch.github.io
+
+লোগো: logo.png  (একই নামে নতুন ছবি আপলোড করুন)
+কভার ছবি: images/cover.jpg
+সার্টিফিকেট ছবি: images/certificate.jpg
+সভার ছবি: images/meeting.jpg
+মেকআপ: images/makeup.jpg
+হেয়ার: images/hairdressing.jpg
+লেখা/ফোন/ঠিকানা: index.html ফাইল এডিট করুন
+
+আপলোড:
+1. উপরের লিংক খুলুন
+2. Add file → Upload files
+3. নতুন ছবির নাম আগের ফাইলের মতো রাখুন (যেমন logo.png)
+4. Commit changes চাপুন
+১–২ মিনিট পর সাইটে দেখা যাবে।
